@@ -112,15 +112,15 @@ if(idade >=18){
 */
 
 if (idade < 18){
-    console.log(`com idade de $(idade), NÃO PERMITIDO POSSUIR CNH`)
+    console.log(`com idade de ${idade}, NÃO PERMITIDO POSSUIR CNH`)
 }else if(idade < 50){
-    console.log(`Com idade de &(idade), 10 anos para renovar`)
+    console.log(`Com idade de ${idade}, 10 anos para renovar`)
 }else if (idade < 70){
-    console.log(Com idade de ${idade}, 5 anos para renovar`)
-    
+    console.log(`Com idade de ${idade}, 5 anos para renovar`)
+
 }
-}
-}
+
+
 
 
 
