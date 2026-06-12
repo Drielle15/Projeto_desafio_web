@@ -117,7 +117,6 @@ if (idade < 18){
     console.log(`Com idade de ${idade}, 10 anos para renovar`)
 }else if (idade < 70){
     console.log(`Com idade de ${idade}, 5 anos para renovar`)
-
 }
 
 
